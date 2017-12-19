@@ -1,1 +1,1 @@
-# archive_files
+Public repository for storing executable packages for updating use. To directly access file, go to the file and click it. Once it loads copy the browser path and append '?raw=true' to directly access the file
